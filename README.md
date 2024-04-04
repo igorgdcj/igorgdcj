@@ -3,7 +3,7 @@
 
 <img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="290">
 
-Cursando 3° período em Análise e Desenvolvimento de Sistemas. Procuro uma oportunidade para o meu estágio na área de Desenvolvimento Web.<br/> Possuo experiência com C#, HTML5, CSS3 e um pouco de TypeScript.
+Cursando 4° período em Análise e Desenvolvimento de Sistemas. Procuro uma oportunidade para o meu estágio na área de Desenvolvimento Web.<br/> Possuo experiência com C#, HTML5, CSS3 e um pouco de TypeScript.
 
 ```javascript
 const igor = {
