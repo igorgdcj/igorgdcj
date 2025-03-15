@@ -57,7 +57,6 @@ const igor = {
 -->
 
  
-🔭 Procurando estágio na área de <b>Front-end</b>
 
  <p align="left">
   <a href="https://www.linkedin.com/in/igor-gomes-96488a11b" target="blank">
