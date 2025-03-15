@@ -3,7 +3,7 @@
 
 <img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="290">
 
-Formado em Análise e Desenvolvimento de Sistemas.
+Formação: Análise e Desenvolvimento de Sistemas.
 
 ```javascript
 const igor = {
